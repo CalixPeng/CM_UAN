@@ -1,6 +1,6 @@
 # Interference-Constrained Scheduling of a Cognitive Multi-hop Underwater Acoustic Network
 
-This repository contains the code and supplementary materials for the research paper ["Interference-Constrained Scheduling of a Cognitive Multi-hop Underwater Acoustic Network"](https://ieeexplore.ieee.org/abstract/document/10403107).
+This repository contains the code for the research paper ["Interference-Constrained Scheduling of a Cognitive Multi-hop Underwater Acoustic Network"](https://ieeexplore.ieee.org/abstract/document/10403107).
 
 If you find it useful, please consider citing:
 ```bibtex
